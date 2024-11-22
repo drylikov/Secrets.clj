@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="500" height="auto" src=".github/logo.png">
-</p>
-
 A library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
 The `secrets.clj` is a port of the [`secrets`](https://docs.python.org/3/library/secrets.html) 
